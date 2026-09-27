@@ -1,0 +1,3 @@
+permissions:
+      
+      upload-assets: true # Optional: Upload to a new release
